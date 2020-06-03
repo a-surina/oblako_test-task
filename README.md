@@ -5,6 +5,8 @@
 
 ## Сервис
 http://qa-assignment.oblakogroup.ru/board/anastasiya_surina
+## Требования
+https://qa-assignment.tumblr.com/
 ## Содержание
 - **[Тест-план](/Plan.md "Тест-план")**
 - **[Набор тестовых сценариев](https://docs.google.com/spreadsheets/d/1ElY9lHBo_Vir7d46LKpvj0Jui_l9Gl9Mst9IMgN7UF0/edit?usp=sharing "Тест-кейсы")**
